@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 12242000,
+            "tagId": 379241,
+            "name": "Position",
+            "value": "Bottom",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-02-21T17:12:50.915Z",
+            "updatedAt": "2023-02-21T17:12:50.915Z"
+        },
+        {
+            "id": 12235423,
+            "tagId": 374809,
+            "name": "Cultivar",
+            "value": "round",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-09T17:52:22.626Z",
+            "updatedAt": "2023-01-09T17:52:22.626Z"
+        }
+    ],
+    "size": {
+        "height": 3024,
+        "width": 4032
+    },
+    "objects": [
+        {
+            "id": 85268062,
+            "classId": 597753,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-05T17:03:08.380Z",
+            "updatedAt": "2023-01-05T17:03:08.380Z",
+            "tags": [],
+            "classTitle": "Tomato",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    2010,
+                    1539
+                ]
+            }
+        }
+    ]
+}

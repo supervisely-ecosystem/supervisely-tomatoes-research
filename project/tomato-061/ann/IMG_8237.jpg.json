@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 12242025,
+            "tagId": 379241,
+            "name": "Position",
+            "value": "Bottom",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-02-21T17:20:59.365Z",
+            "updatedAt": "2023-02-21T17:20:59.365Z"
+        },
+        {
+            "id": 12235448,
+            "tagId": 374809,
+            "name": "Cultivar",
+            "value": "monterosa",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-09T18:06:38.561Z",
+            "updatedAt": "2023-01-09T18:06:38.561Z"
+        }
+    ],
+    "size": {
+        "height": 3024,
+        "width": 4032
+    },
+    "objects": [
+        {
+            "id": 85268227,
+            "classId": 597753,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-06T19:03:14.653Z",
+            "updatedAt": "2023-01-06T19:03:20.085Z",
+            "tags": [],
+            "classTitle": "Tomato",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1812,
+                    869
+                ]
+            }
+        }
+    ]
+}
