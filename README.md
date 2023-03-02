@@ -172,7 +172,7 @@ We also used a tag system to distribute images by angles. That way, we got:
 - Photo №6: horizontal cut bottom
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119248312/222444879-555310c0-8709-4b7e-bff4-9778c93185bf.png" width="300"/> • <img src="https://user-images.githubusercontent.com/119248312/222444880-054ecc4a-030f-4a32-98c7-b94a19cec605.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/115161827/222559571-f6d39632-ae86-4979-8ee2-6cd9f4f2eaf5.png" width="300"/> <img src="https://user-images.githubusercontent.com/115161827/222557886-bc010627-3cbf-4db1-9d73-fc1bc9dc7473.png" width="300"/>
 </p>                                                                                  
 
 
@@ -182,7 +182,7 @@ If  you need to calculate the area of the tomatoes and are not sure about the st
 After we made sure that the photos were uploaded in the correct order, we started labeling objects
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119248312/222507555-1ca499ad-3e69-4710-9ca2-a170709c76ad.png" width="400"/> • <img src="https://user-images.githubusercontent.com/119248312/222507559-d2047892-4620-40b5-8cb2-84712d30bd09.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/119248312/222507555-1ca499ad-3e69-4710-9ca2-a170709c76ad.png" width="300"/>  <img src="https://user-images.githubusercontent.com/119248312/222507559-d2047892-4620-40b5-8cb2-84712d30bd09.png" width="300"/>
 </p>                                                                                  
 
 
