@@ -20,8 +20,8 @@
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/supervisely-tomatoes-research)
-[![views](xxx)](https://supervise.ly)
-[![downloads](xxx)](https://supervise.ly)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/supervisely-tomatoes-research.png)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/supervisely-tomatoes-research.png)](https://supervise.ly)
 </div>
 
 
@@ -33,7 +33,7 @@ This article focuses on the benefits of using a deep learning model for tomato s
 Such post may be useful to specialists in agricultural activities.
 
 ## Download
-Direct download:
+Direct download: [tar archive](https://github.com/supervisely-ecosystem/supervisely-tomatoes-research/releases/download/1.0.1/tomato-slices.tar) (1.02 GB)
 
 ## Keywords
 - AI
@@ -153,11 +153,11 @@ To systematize all the tomatoes, a project was created with many datasets. In ea
 All photos were large in size.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119248312/222444874-12d8afd7-3f67-4cc6-aca1-41f660a75011.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/119248312/222507408-2eddba75-9682-4a84-b6e7-471c41921ca1.png" width="700"/>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119248312/222444877-1a767c7d-2b8f-4dd1-a593-a2db9eca9f60.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/119248312/222507461-c6a87ec0-4999-47a4-a0f3-d036d9a555a8.png" width="700"/>
 </p>
 
 Each dataset contains all photos of one tomato of a particular cultivar.
@@ -182,7 +182,7 @@ If  you need to calculate the area of the tomatoes and are not sure about the st
 After we made sure that the photos were uploaded in the correct order, we started labeling objects
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119248312/222444883-c0138451-3ea5-4ff2-ba1b-b5ddaa468df1.png" width="400"/> • <img src="https://user-images.githubusercontent.com/119248312/222444892-ea2cbe84-5b46-416a-afda-30f0b2f259b1.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/119248312/222507555-1ca499ad-3e69-4710-9ca2-a170709c76ad.png" width="400"/> • <img src="https://user-images.githubusercontent.com/119248312/222507559-d2047892-4620-40b5-8cb2-84712d30bd09.png" width="400"/>
 </p>                                                                                  
 
 
