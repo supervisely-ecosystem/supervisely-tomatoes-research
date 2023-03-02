@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 12241958,
+            "tagId": 379241,
+            "name": "Position",
+            "value": "Bottom",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-02-21T15:48:23.055Z",
+            "updatedAt": "2023-02-21T15:48:23.055Z"
+        },
+        {
+            "id": 12235381,
+            "tagId": 374809,
+            "name": "Cultivar",
+            "value": "bald",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-09T17:31:53.410Z",
+            "updatedAt": "2023-01-09T17:31:53.410Z"
+        }
+    ],
+    "size": {
+        "height": 3024,
+        "width": 4032
+    },
+    "objects": [
+        {
+            "id": 85267816,
+            "classId": 597753,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-04T11:25:49.221Z",
+            "updatedAt": "2023-01-04T11:25:49.221Z",
+            "tags": [],
+            "classTitle": "Tomato",
+            "bitmap": {
+                "data": "eJwllns80/sfx2fMbjbCWJpL5XaOayErtDqHtMrckkm0bzqocNZPy8Rx2ze6Semumop45PrVqVxWse+KJPNLxWRzNnWSLI1ya5Pf9Pvj83i+36/P5/1+vx6Pz+ePz/EQRiABZ4FDIBAE+mb/MARCt1W7GnR0tQraNu+OFvoh27YHaLmwsHB7oFSmjXQOhTHCERs+SOIRCAyV7r9xO/faZ9nW4kGqkV5I0At4K0UnUPjyWZnCkYq8uNNxZ9zz8YONAcdtQyKwyCsZHScrVJ231KnN55/KsuNdNR1ewjbaeGkzUSd4pn4O2pMtLe31pvBlaj+OQb3vR7uGaO7URrcrHFmkskfaAu5e/zHwCFjZCA3fLMz7R3BiDI8qIMzUHTr1kOrc6jCtp/aD2p9vEqYUVTfcDVXV3b49AVU+gr71G/DSBL0ZS1FfsnvhLjxKrTsec1dPKI+rk57+PmPjvAMToqIFxtxJIPDmAebmfOGrg8z49AttK9yGQtiO7IDTQaaZmea0sIUaQDW+Rx354RX82Ihxn30zOnv/LVYk7p+vdEWIQeT0AbIvScTxaf42ywzj7IflITqRMYXuTe21bzsdZ1Wvv7mQqp22C0k+S1Hm07UL4ZlefDPXoU73pg/lWbZ8AvE+e3RJ2JjZl72mu9LCaMVilOBIUxLnpvxT6gE6Vmknz7Snbm6zs55sVhS/JKB8sI3vlXnCjfrrH7eA8ncJ5oBTUwuQZV+KIoapXs7b6lsnl7gzX/jhKe/lcdV41Mntgz3XkGY+jRf9Ta/1ILa2FFz0wpmRO1vjU6wP32W/JaCjqN6GJ60uz+jWFwGQeX7abhN36mZRA4f5ViYoBQ1fqMcPIPUzDnJHvHR4DunUJbEnE0Wa61JPJUke069nQLRg20qNnLO9XToHofDctF2n3CXVbT4/vCs8uIGkDcLe1FcJvWY1B39x7eyGY7FDlAgBz7saYUAsE65rnCg+lpdaBoXzvKsQBtP7VZtIOcJzFprHuMQ3OYeBWgvI1gubEUD1xqIDZpPncoUnxtW/3sB16AOPtFveGJ+I2SAS2XC6SnWViOQ5LGYbhCVPE+gWRHG3sCTii4vyguKSZXn07B/a4o3LTouEc6iaz49rkI7MxjjX9FDUuvzd23XIym+Ke7gMeLIzWXhu/cNY1JH8/moEri/lTdETElMQQbv7oEad379o0Uy1U2vx5gFuLa+NZZJWizN6kEfYOVXsS9HsyqIAt+/pZqykGvNPyT0pmtceoVDne097TZrwqND+nInpD0GUiBXMdNlHpWYX6AL3pRa53dIdrLKoibNCIAHToZD7k5EZv8+uW+O7FLYGl0ADZ74/812d5F3uSgexaegRGrRS6kfZplgGIJI+ZV0/g3VygIGuSDeeSExmgNhqURaVuzq/HqydzM1P3v3IaE23gZb+Rla6DJbkpnxDU4ZEamkk5sF9biswgyKx1eMlVnrTICHvqAO8CZpnMrgY6m8VcTB4HwiU4IigoGDJ+Lv7PWx3+V8I8uFFC+oGuZMRHzND/H3xmBpcHjc3OR8EYk3st3G9lRgtLrsrPsg3XHYHYK36A1zl+jP4qfMVTj+TFCvG/yVVtT8M+oC6CjHw3+AKY63CJikxV99v0pbf2Wtzai6KDINvinPcP3TkYE3Gjds1xSeuLHbGf839jhKB6oJ6MAgIltgc14qVBSsBuApamXQGD8Bblk4Z7tPJclJz2fZJ+KIZc6/APBMAfs4mo/naToQfTTlAYFP07BaJxZqFD2vheHqiRBPdiblqdwv4+sXYRkrLXGo+DXJSVyYZ+sA7oImFLXthcAp4F/mvO9ULgYbBAI+FXBkbGs0oLcJrr+P796NQVJ1LW4XbSkwci4a8VpJjCTx9Ys/q2sjxnZ100XoVsSGP1D/LRIfjBrnsFL0HV/ntvFdpkpRj+/Snd6i2kVGCIUXRVifojfMqq8xk/QcldhZ5PMI1bLTM+Kw7cU2JHUt17iSvMP54vvbJ7KHO9hkrQ6G/czwA26TeGhOFnZlKakrBdI3sc+6A+VAmv2PSTr/7iC+1EbXshXGhUL97nfEPEo2ifK3gXIIsa2JH+yveBd5TbCMT0TBMr2fRKDUyj5GX8qmzBJyT91g/9J+eXdYDmEE4liQmwClUZqN8k6nm7VNhi9/fdKpji5tDZYpCQ5wWCUtqnbywB/oeNdOZDZqHvzSGSMpYlfqto5evw82hzHrNPdzYhdImHbQLV/RUGNv512DTDWgHKdG8rwrZHMWsxpUHSUbbUgWQ2KshNPMGJJ5/7UnxlBdWzRzrz0ntgp57LYnOj2CM+bkuDmMMyZzXt64wHGlX2BAr2wE3Yk+haLhyim+hemZr8OWODpOKETWnM1uiGw23lvY1/CXpggUxihnknB6kHODgJHR41AD6yOAXtcWKZTG6EMSaH1iEnCF2yL1OpgQjuyyXo2MaqppTHf9EXHzbiW5cZaTFqC9kcrBIFlT0zGB1B20PxTlcf/IK62z6Cj7WbG3d1l0U5SeZKO3c60vXGPr9uwu/dso/VTe8L2+H64zFt9nJgtMjvLE+jqIZdXSsrn04gACOnR47tKmp4r3Z+Tm3iX/Z6x12NdS9W6s4wYkZGZYPEyJSU/yG8Yq5e2xFS11WL7WJHTNiIvpjWdWQy9gU0nqVkWtU/9c7irwEl8nyXNUEgRRMtM7qI4W/mqFYDvWOKng9LSn5ibqHC+RSnUxlFL6loI/zCbleVYPq9zQdyg59wpDLPM6HoBMRQ80PwUt9xRD+tKVQEHu1KxvezO3wX943+Tan8dKlYkF60q9KwP1hKPqeladxlhoiRdlovgOBMeboVqr/tzW9pducxpPkw/KRgmQRUtFq/YCEB1vTbgwY/QgbD4qyyZybb/o8sGWW1o/x5R95p5ZqPxQIegDDv+43Vt7/AEorI5c=",
+                "origin": [
+                    1970,
+                    1370
+                ]
+            }
+        }
+    ]
+}

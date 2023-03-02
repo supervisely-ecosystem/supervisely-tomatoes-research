@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 12241964,
+            "tagId": 379241,
+            "name": "Position",
+            "value": "Bottom",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-02-21T16:05:15.206Z",
+            "updatedAt": "2023-02-21T16:05:15.206Z"
+        },
+        {
+            "id": 12235387,
+            "tagId": 374809,
+            "name": "Cultivar",
+            "value": "bald",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-09T17:33:05.892Z",
+            "updatedAt": "2023-01-09T17:33:05.892Z"
+        }
+    ],
+    "size": {
+        "height": 3024,
+        "width": 4032
+    },
+    "objects": [
+        {
+            "id": 85267855,
+            "classId": 597753,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-05T19:08:30.684Z",
+            "updatedAt": "2023-01-05T19:08:36.164Z",
+            "tags": [],
+            "classTitle": "Tomato",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1858,
+                    1457
+                ]
+            }
+        }
+    ]
+}
