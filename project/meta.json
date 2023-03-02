@@ -1,0 +1,116 @@
+{
+    "classes": [
+        {
+            "title": "Columella",
+            "shape": "bitmap",
+            "color": "#000000",
+            "geometry_config": {},
+            "id": 597746,
+            "hotkey": ""
+        },
+        {
+            "title": "Core",
+            "shape": "bitmap",
+            "color": "#F5A623",
+            "geometry_config": {},
+            "id": 597747,
+            "hotkey": ""
+        },
+        {
+            "title": "Locule",
+            "shape": "bitmap",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 597748,
+            "hotkey": ""
+        },
+        {
+            "title": "Navel",
+            "shape": "bitmap",
+            "color": "#B8E986",
+            "geometry_config": {},
+            "id": 597749,
+            "hotkey": ""
+        },
+        {
+            "title": "Pericarp",
+            "shape": "bitmap",
+            "color": "#7ED321",
+            "geometry_config": {},
+            "id": 597750,
+            "hotkey": ""
+        },
+        {
+            "title": "Placenta",
+            "shape": "bitmap",
+            "color": "#50E3C2",
+            "geometry_config": {},
+            "id": 597751,
+            "hotkey": ""
+        },
+        {
+            "title": "Septum",
+            "shape": "bitmap",
+            "color": "#BD10E0",
+            "geometry_config": {},
+            "id": 597752,
+            "hotkey": ""
+        },
+        {
+            "title": "Tomato",
+            "shape": "bitmap",
+            "color": "#4A90E2",
+            "geometry_config": {},
+            "id": 597753,
+            "hotkey": ""
+        },
+        {
+            "title": "Sepal",
+            "shape": "bitmap",
+            "color": "#9B9B9B",
+            "geometry_config": {},
+            "id": 653523,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "Cultivar",
+            "value_type": "oneof_string",
+            "color": "#D0021B",
+            "values": [
+                "oxheart",
+                "pacifier",
+                "bald",
+                "cherry",
+                "round",
+                "plum",
+                "monterosa",
+                "long life",
+                "tomato with branch"
+            ],
+            "id": 374809,
+            "hotkey": "L",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Position",
+            "value_type": "oneof_string",
+            "color": "#7ED321",
+            "values": [
+                "Top",
+                "Bottom",
+                "Vertical cut left",
+                "Vertical cut right",
+                "Horizontal top cut",
+                "Horizontal bottom cut"
+            ],
+            "id": 379241,
+            "hotkey": "K",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}
