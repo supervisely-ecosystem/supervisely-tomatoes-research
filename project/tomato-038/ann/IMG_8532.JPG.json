@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 12241873,
+            "tagId": 379241,
+            "name": "Position",
+            "value": "Bottom",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-02-20T18:06:18.101Z",
+            "updatedAt": "2023-02-20T18:06:18.101Z"
+        },
+        {
+            "id": 12235786,
+            "tagId": 374809,
+            "name": "Cultivar",
+            "value": "tomato with branch",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-11T17:46:16.906Z",
+            "updatedAt": "2023-01-11T17:46:16.906Z"
+        }
+    ],
+    "size": {
+        "height": 3024,
+        "width": 4032
+    },
+    "objects": [
+        {
+            "id": 85267409,
+            "classId": 597753,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "lisa",
+            "createdAt": "2023-01-04T18:19:05.224Z",
+            "updatedAt": "2023-01-04T18:19:05.224Z",
+            "tags": [],
+            "classTitle": "Tomato",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1922,
+                    1391
+                ]
+            }
+        }
+    ]
+}
