@@ -182,7 +182,7 @@ If  you need to calculate the area of the tomatoes and are not sure about the st
 After we made sure that the photos were uploaded in the correct order, we started labeling objects
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119248312/222507555-1ca499ad-3e69-4710-9ca2-a170709c76ad.png" width="300"/>  <img src="https://user-images.githubusercontent.com/119248312/222507559-d2047892-4620-40b5-8cb2-84712d30bd09.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/115161827/222567402-ea3d905b-0f49-462a-b775-de9281ac4ad3.png" width="300"/>  <img src="https://user-images.githubusercontent.com/115161827/222567759-340dbb87-a4e2-47a0-99da-eced7ccc615e.png" width="300"/>
 </p>                                                                                  
 
 
