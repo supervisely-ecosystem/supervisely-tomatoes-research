@@ -11,6 +11,7 @@
   <a href="#abstract">Abstract</a> •
   <a href="#download">Download</a> •
   <a href="#keywords">Keywords</a> •
+  <a href="#statistics">Statistics</a> •
   <a href="#introduction">Introduction</a> •
   <a href="#research-methods">Research methods</a> •
   <a href="#labeling-process">Labeling process</a> •
@@ -45,6 +46,12 @@ Direct download: [tar archive](https://github.com/supervisely-ecosystem/supervis
 - Phenotype
 - Phenotyping
 - Segmentation
+
+## Statistics
+
+Project contains 66 datasets with 424 images in it, with a total of 2560 annotated objects.
+
+<img src="https://user-images.githubusercontent.com/115161827/222809839-5ac60b95-5420-4afc-89a6-2ed015ac36b1.png" width="700"/>
 
 ## Introduction
 
