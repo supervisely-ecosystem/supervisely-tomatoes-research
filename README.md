@@ -216,6 +216,10 @@ The annotation of more detailed objects was done by the polygon tool.
 </p>
 
 <p align="center">
+<a href="https://tea.solgenomics.net/anatomy_viewer/microscopy/slm82_fruit">You can find more about the structure of tomatoes here</a>
+</p> 
+  
+<p align="center">
 <img src="https://user-images.githubusercontent.com/119248312/222444902-bbc5650a-a6c3-4ed0-9558-bba6764f95ce.jpg" width="700"/>
 </p>
 
