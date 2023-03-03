@@ -212,6 +212,10 @@ Large parts of the tomato, such as the whole tomato and the pericarp, were annot
 The annotation of more detailed objects was done by the polygon tool.
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/119248312/222733420-b933c1af-a221-4c12-891c-598f5a905309.jpg" width="700"/>
+</p>
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/119248312/222444902-bbc5650a-a6c3-4ed0-9558-bba6764f95ce.jpg" width="700"/>
 </p>
 
