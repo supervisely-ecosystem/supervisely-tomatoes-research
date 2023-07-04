@@ -1,6 +1,6 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
+<img src="https://camo.githubusercontent.com/553dec38b5ad391ecc1fab2bd789669b868c9606dd73a5da806a98d7e9d6bd0e/68747470733a2f2f692e696d6775722e636f6d2f556442756a464e2e706e67" width="250"/> <br>
 
 <img src="https://user-images.githubusercontent.com/119248312/222499136-015c8321-60c8-49a3-b4a7-604326e532f9.jpg" width="100"/> 
 
