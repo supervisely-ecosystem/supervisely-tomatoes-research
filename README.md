@@ -16,7 +16,8 @@
   <a href="#research-methods">Research methods</a> •
   <a href="#labeling-process">Labeling process</a> •
   <a href="#post-processing-and-analysis">Post-Processing and Analysis</a> •
-  <a href="#conclusion">Conclusion</a> 
+  <a href="#conclusion">Conclusion</a> •
+  <a href="#license">License</a>
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
@@ -310,3 +311,23 @@ Thus, this article claims that the Supervisely team has made progress in automat
 Taken together, our results are consistent with the conclusion of the article ["Quantitative Extraction and Evaluation of Tomato Fruit Phenotypes Based on Image Recognition"](https://www.frontiersin.org/articles/10.3389/fpls.2022.859290/full). The measurement accuracy was comparable to manual labeling, and the time spent on labeling was significantly reduced.
 Tomato annotation also helps to create accurate models for predicting the tomato’s growth and yield. This can help farmers to increase their crop yield and improve the quality of their tomatoes.Received consistent and quantitative data on the phenotype can also help in genomic, metabolomic, and transcriptomic studies of the tomato.
 It is worth noting that this technique can be extended to the phenotyping of other fruit crops.
+
+## License
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+If you use this dataset, cite us:
+```
+@misc{ Computer Vision Dataset,
+    title = { Tomatoes Annotated },
+    type = { Open Source Dataset },
+    author = { Supervisely },
+    howpublished = { \url{ https://ecosystem.supervisely.com/projects/supervisely-tomatoes-research } },
+    url = { https://ecosystem.supervisely.com/projects/supervisely-tomatoes-research },
+    journal = { Supervisely Ecosystem },
+    publisher = { Supervisely },
+    year = { 2023 },
+    month = { mar },
+}
+```
+
