@@ -20,10 +20,10 @@
   <a href="#license">License</a>
 </p>
 
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack) 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/supervisely-tomatoes-research)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/supervisely-tomatoes-research.png)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/supervisely-tomatoes-research.png)](https://supervise.ly)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/supervisely-tomatoes-research.png)](https://supervisely.com)
+[![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/supervisely-tomatoes-research.png)](https://supervisely.com)
 </div>
 
 
@@ -185,7 +185,7 @@ We also used a tag system to distribute images by angles. That way, we got:
 
 
 
-If  you need to calculate the area of the tomatoes and are not sure about the straightness of your camera angle or stability of your pictures, you need to use this APP [“Perspective transform using QR-code”](https://dev.supervise.ly/ecosystem/apps/perspective-transform-using-qr-code) to straighten the photos before starting the labeling process. In our case, this was not necessary.
+If  you need to calculate the area of the tomatoes and are not sure about the straightness of your camera angle or stability of your pictures, you need to use this APP [“Perspective transform using QR-code”](https://dev.supervisely.com/ecosystem/apps/perspective-transform-using-qr-code) to straighten the photos before starting the labeling process. In our case, this was not necessary.
 
 After we made sure that the photos were uploaded in the correct order, we started labeling objects
 
@@ -302,8 +302,8 @@ The most important thing is that at maximum opacity, the labeling should match t
 
 ## Post-Processing and Analysis
 
-After all the tomatoes were labeled, we used the APP [“Rasterize objects”](https://dev.supervise.ly/ecosystem/apps/rasterize-objects-on-images) to get rid of the overlaying. Therefore, the upper layers were cut out the lower. 
-You can learn more about how this app works [HERE](https://dev.supervise.ly/ecosystem/apps/rasterize-objects-on-images). 
+After all the tomatoes were labeled, we used the APP [“Rasterize objects”](https://dev.supervisely.com/ecosystem/apps/rasterize-objects-on-images) to get rid of the overlaying. Therefore, the upper layers were cut out the lower. 
+You can learn more about how this app works [HERE](https://dev.supervisely.com/ecosystem/apps/rasterize-objects-on-images). 
 
 ## Conclusion
 
